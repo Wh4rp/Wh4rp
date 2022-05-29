@@ -18,7 +18,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wh4rp&show_icons=true&count_private=true&hide_border=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 
 
-I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's apasionate 🖥️🧙‍♂️ 
+I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's enthusiast 🖥️🧙‍♂️ 
 
 - 🔭 I’m currently working on [Algebra Abstracta Hecha Bien](https://github.com/Wh4rp/AbstractaHechaBien)  
   
