@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-<br/>
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,10 +11,9 @@
 </a>
 <a href="https://leetcode.com/Wh4rp/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=leetcode style="margin-bottom: 5px;" />
-</a>    
+</a>
 
-### <div align="center">I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's apasionate 🖥️🧙‍♂️</div>  
-
+I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's apasionate 🖥️🧙‍♂️ 
 
 - 🔭 I’m currently working on [Algebra Abstracta Hecha Bien](https://github.com/Wh4rp/AbstractaHechaBien)  
   
@@ -31,11 +26,7 @@
 
 - ⚡ Fun fact: I write k like n and n like m  
 
-
-<br/> 
-
-
-## Github Stats
+<br/>
 
 <table><tr><td valign="top" width="50%">
 
@@ -53,10 +44,4 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Wh4rp&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
+</div>
