@@ -13,6 +13,8 @@
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=leetcode style="margin-bottom: 5px;" />
 </a>
 
+<br/>
+
 I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's apasionate 🖥️🧙‍♂️ 
 
 - 🔭 I’m currently working on [Algebra Abstracta Hecha Bien](https://github.com/Wh4rp/AbstractaHechaBien)  
