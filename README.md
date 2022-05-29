@@ -15,6 +15,9 @@
 
 <br/>
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wh4rp&show_icons=true&count_private=true&hide_border=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+
+
 I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's apasionate 🖥️🧙‍♂️ 
 
 - 🔭 I’m currently working on [Algebra Abstracta Hecha Bien](https://github.com/Wh4rp/AbstractaHechaBien)  
@@ -29,20 +32,6 @@ I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's apasionate �
 - ⚡ Fun fact: I write k like n and n like m  
 
 <br/>
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Wh4rp&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wh4rp&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-<br/>  
-
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Wh4rp&&style=flat-square" align="center" />
