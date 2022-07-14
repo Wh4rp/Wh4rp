@@ -19,11 +19,9 @@
 
 
 I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's enthusiast 🖥️🧙‍♂️ 
-
-- 🔭 I’m currently working on [Algebra Abstracta Hecha Bien](https://github.com/Wh4rp/AbstractaHechaBien)  
   
 
-- 🌱 I’m currently learning Web Development and Machine Learning  
+- 🌱 I’m currently learning Web Development
   
 
 - 🚩 I'm competing in Competitive Programming  
