@@ -1,5 +1,3 @@
-[![An image of @wh4rp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wh4rp)](https://holopin.io/@wh4rp)
-
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://github.com/rishavanand" target="_blank">
