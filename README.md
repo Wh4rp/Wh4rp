@@ -17,16 +17,11 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wh4rp&show_icons=true&count_private=true&hide_border=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
 
+I'm Warp, a BS in Computer Science student 💻📚 and Algorithms enthusiast 🖥️🧙‍♂️ 
 
-I'm Warp, a BS in Mathematics student 🔢📏📚 and Algorithms's enthusiast 🖥️🧙‍♂️ 
-  
-
-- 🌱 I’m currently learning Web Development
-  
-
-- 🚩 I'm competing in Competitive Programming  
-  
-
+- 🚩 I'm participating in Competitive Programming competitions as part of the programming team at PUC Chile
+- 👨‍🏫 I’m teaching programming to high school students
+- ➕ I love mathematics and enjoy learning new things
 - ⚡ Fun fact: I write k like n and n like m  
 
 <br/>
